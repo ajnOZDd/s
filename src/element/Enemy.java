@@ -6,6 +6,7 @@ public class Enemy {
     double puissance  ;
     int level ;
     double vitesse ;
+    int taille ;
     String [] nameArm = {"missile" ,"pisolet" , "epee"};
 
 }
